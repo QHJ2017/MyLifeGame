@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="040bab80-6246-42dc-be02-bac2eb202a0a" name="Default" comment="" />
+    <list default="true" id="040bab80-6246-42dc-be02-bac2eb202a0a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyLifeGame/PetriDish.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyLifeGame/Test.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyLifeGame/CellUnit.class" afterPath="$PROJECT_DIR$/out/production/MyLifeGame/CellUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyLifeGame/MyLifeGameTest.class" afterPath="$PROJECT_DIR$/out/production/MyLifeGame/MyLifeGameTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +23,28 @@
       <file leaf-file-name="MyLifeGameTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyLifeGameTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="249">
+              <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Petri.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Petri.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintStream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/PrintStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="664" column="16" lean-forward="false" selection-start-line="664" selection-start-column="16" selection-end-line="664" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -26,28 +53,8 @@
       <file leaf-file-name="CellUnit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CellUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PetriDish.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PetriDish.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="530">
+              <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -62,6 +69,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>petri</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -72,8 +87,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/PetriDish.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/MyLifeGameTest.java" />
         <option value="$PROJECT_DIR$/src/CellUnit.java" />
+        <option value="$PROJECT_DIR$/src/Petri.java" />
+        <option value="$PROJECT_DIR$/src/MyLifeGameTest.java" />
       </list>
     </option>
   </component>
@@ -108,6 +124,9 @@
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -164,6 +183,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="FullScreen" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="petri&#9;PSI&#9;JAVA://Petri" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -182,70 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyLifeGameTest.imitate_cell">
-    <configuration default="false" name="MyLifeGameTest.imitate_a_simple_board" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="MyLifeGame" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
-      <option name="METHOD_NAME" value="imitate_a_simple_board" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MyLifeGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="MyLifeGame" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test.TestAnother" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="MyLifeGame" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="TestAnother" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.MyLifeGameTest.loop_petri">
     <configuration default="false" name="MyLifeGameTest.imitate_cell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="MyLifeGame" />
@@ -254,6 +211,90 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
       <option name="METHOD_NAME" value="imitate_cell" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyLifeGameTest.loop_print_cell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MyLifeGame" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
+      <option name="METHOD_NAME" value="loop_print_cell" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyLifeGameTest.new_random_size_petri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MyLifeGame" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
+      <option name="METHOD_NAME" value="new_random_size_petri" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyLifeGameTest.update_petri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MyLifeGame" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
+      <option name="METHOD_NAME" value="update_petri" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyLifeGameTest.loop_petri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="MyLifeGame" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyLifeGameTest" />
+      <option name="METHOD_NAME" value="loop_petri" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -654,23 +695,28 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.imitate_a_simple_board" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Test.TestAnother" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.imitate_cell" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.imitate_cell" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.loop_print_cell" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.new_random_size_petri" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.update_petri" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.loop_petri" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.imitate_cell" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Test.TestAnother" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.imitate_a_simple_board" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.loop_petri" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.update_petri" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.new_random_size_petri" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.loop_print_cell" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MyLifeGameTest.imitate_cell" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -680,48 +726,55 @@
       <option name="presentableId" value="Default" />
       <updated>1496539375215</updated>
       <workItem from="1496539376631" duration="2282000" />
-      <workItem from="1496574505843" duration="2744000" />
+      <workItem from="1496574505843" duration="6757000" />
     </task>
+    <task id="LOCAL-00001" summary="核心功能实现。">
+      <created>1496581574074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496581574074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 42m 52s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 20h 51m 39s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 44m 14s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 21h 01m 47s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 44m 29s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 21h 02m 01s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 44m 40s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 21h 02m 38s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 45m 06s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 21h 02m 52s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 45m 25s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 21h 04m 29s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 45m 55s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_loop_petri - 2017.06.04 at 21h 05m 04s.xml">
+      <configuration name="MyLifeGameTest.loop_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 47m 36s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_update_petri - 2017.06.04 at 20h 28m 18s.xml">
+      <configuration name="MyLifeGameTest.update_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 50m 13s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_update_petri - 2017.06.04 at 20h 28m 40s.xml">
+      <configuration name="MyLifeGameTest.update_petri" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyLifeGameTest_imitate_cell - 2017.06.04 at 19h 54m 00s.xml">
-      <configuration name="MyLifeGameTest.imitate_cell" configurationId="JUnit" />
+    <history-entry file="MyLifeGameTest_update_petri - 2017.06.04 at 20h 29m 39s.xml">
+      <configuration name="MyLifeGameTest.update_petri" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5026000" />
+    <option name="totallyTimeSpent" value="9039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -732,8 +785,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18849206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -759,6 +812,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="核心功能实现。" />
+    <option name="LAST_COMMIT_MESSAGE" value="核心功能实现。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -793,14 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PetriDish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/javafx/scene/control/Cell.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-914">
@@ -817,18 +866,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/PetriDish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CellUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        <state relative-caret-position="530">
+          <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="664" column="16" lean-forward="false" selection-start-line="664" selection-start-column="16" selection-end-line="664" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Petri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyLifeGameTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="249">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
